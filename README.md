@@ -1,2 +1,2 @@
 # Project
-Projects carried out during the period studying IFMS
+Projects done during the period I was studying IFMS
